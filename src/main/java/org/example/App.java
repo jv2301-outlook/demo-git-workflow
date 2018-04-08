@@ -8,7 +8,7 @@ import java.util.logging.Logger;
 
 public class App {
     public static String getMessage() {
-        return "Hello World!";
+        return "Hello World!!!!!s";
     }
 
     public static void main(String[] args) {
