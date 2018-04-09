@@ -11,6 +11,10 @@ public class App {
         return "Hello World!!!!!s";
     }
 
+    public static void feature3() {
+        // No op
+    }
+
     public static void main(String[] args) {
         Logger.getLogger("org.example").info("Running App.java");
         System.out.println(getMessage());
