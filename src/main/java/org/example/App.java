@@ -15,6 +15,10 @@ public class App {
         // No op
     }
 
+    public static void feature4() {
+        // No op
+    }
+
     public static void main(String[] args) {
         Logger.getLogger("org.example").info("Running App.java");
         System.out.println(getMessage());
