@@ -23,6 +23,10 @@ public class App {
         // No Op
     }
 
+    public static void feature6() {
+        // No Op
+    }
+
     public static void main(String[] args) {
         Logger.getLogger("org.example").info("Running App.java");
         System.out.println(getMessage());
